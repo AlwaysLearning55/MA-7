@@ -1,6 +1,5 @@
 ## Welcome!
 
-<<<<<<< HEAD
 If you are reading this, you are either one of my professor, a prospective employer, or somehow you ended here.
 
 So, I want to stress that I started building this GitHub Page during the 2020 pandemic, with almost no knowledge of how this entire thing works. GitHub, CSS, etc.
@@ -13,14 +12,6 @@ This message will be kept here, which means that at some point in the future the
 ```markdown
 This is a work in progress, content will be updated as fast as I can.
 Any contributions will be apreciated.
-=======
-If you are reading this, you are either one of my professor, a prospective employer, or somehow you ended here. So, with that in mind, I want to stress that I started building this GitHub Page during the 2020 pandemic, with almost no knowledge of how this entire thing works. GitHub, CSS, etc. With this being said, I will assume you understand that this will be improved with time, and this is the first version of anything. It will not look THAT good, neither seem THAT organized, but those are skills that I will improve on.
-This first paragraph will be kept here, which means that at some point I will be excusing myself for something that doesn't exist, but until there;
-
-
-```markdown
-This is a work in progress, content will be updated as fast as I can. Any contributions will be apreciated.
->>>>>>> ea44933641ba87e2fe38339dbce2f763b5ac74d3
 ```
 
 You can use the [editor on GitHub](https://github.com/AlwaysLearning55/AlwaysLearning55.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
