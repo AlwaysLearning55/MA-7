@@ -3,6 +3,6 @@ theme: jekyll-theme-minimal
 title: Welcome to AlwaysLearning's personal homepage!
 description: This is a website hosted on GitHub where im going to host any code I work on during my graduation, and also will keep updated with my contact info for future job references. Have fun!
 
-logo: [https://github.com/AlwaysLearning55/AlwaysLearning55.github.io/blob/master/test_image.jpg]
+logo: [test_image.jpg]
 #show_downloads: [false]
 google_analytics: [UA-176717910-1]
