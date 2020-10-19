@@ -2,7 +2,7 @@
 
 If you are reading this, you are either one of my professor, a prospective employer, or somehow you ended here.
 
-So, I want to stress that I started building this GitHub Page during the 2020 pandemic, with almost no knowledge of how this entire thing works. GitHub, CSS, etc.
+So, I want to stress that I started building this GitHub Page during the 2020 pandemic, with almost no knowledge of how this entire thing works. GitHub, CSS, Python, etc.
 
 With this being said, I will assume you understand that this will be improved with time, and this is the first version of anything. It will not look THAT good, neither seem THAT organized, but those are skills that I will improve on.
 
