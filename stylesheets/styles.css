@@ -6,10 +6,16 @@ body {
   font-weight:400;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h5, h6 {
   color:#222;
   margin:0 0 20px;
 }
+
+h3, h4 {
+  color:#222;
+  margin:0 0 10px;
+}
+
 
 p, ol, table, pre, dl {
   margin:0 0 20px;
@@ -63,6 +69,10 @@ a small {
 
 a:hover small {
   color:#777;
+}
+
+div.c {
+  text-indent: 20px;
 }
 
 .wrapper {
@@ -279,3 +289,52 @@ footer {
     color:#444;
   }
 }
+
+  <div>
+  <style scoped="">
+      .button-success,
+      .button-error,
+      .button-warning,
+      .button-secondary {
+          border-radius: 5px;
+      }
+
+      .button-success {
+          background: rgb(28, 184, 65);
+          text-align:center;
+          color: white;
+          border-radius: 10px;
+          text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+          text-align: center;
+          line-height: 30px;
+          /* this is a green */
+      }
+
+      .button-error {
+          background: rgb(202, 60, 60);
+          color: white;
+          border-radius: 10px;
+          text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+          /* this is a maroon */
+      }
+
+      .button-warning {
+          background: rgb(223, 117, 20);
+          color: white;
+          border-radius: 10px;
+          text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+          /* this is an orange */
+      }
+
+      .button-secondary {
+          background: rgb(66, 184, 221);
+          text-align:center;
+          color: white;
+          border-radius: 10px;
+          text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+          text-align: center;
+          line-height: 30px;
+          /* this is a light blue */
+      }
+  </style>
+</div>
