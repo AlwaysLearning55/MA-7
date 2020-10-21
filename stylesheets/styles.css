@@ -75,9 +75,21 @@ div.c {
   text-indent: 20px;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 10px;
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;
+  overflow: auto;
+  position: sticky;
 }
 
 blockquote {
@@ -125,10 +137,13 @@ img {
 }
 
 header {
-  width:270px;
+  width: 270px;
   float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  position: sticky;
+  position: -webkit-sticky;
+  height: auto;
+  top: 1;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 header ul {
@@ -194,6 +209,7 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+  margin-top: 10px;
 }
 
 small {
