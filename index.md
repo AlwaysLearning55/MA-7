@@ -1,125 +1,37 @@
-<!doctype html>
-<html>
-  <head>
+## Welcome to GitHub Pages
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-176717910-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+You can use the [editor on GitHub](https://github.com/AlwaysLearning55/MA-7/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-      gtag('config', 'UA-176717910-1');
-    </script>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>AlwaysLearning's portifolio</title>
-    <link rel="icon" href="https://raw.githubusercontent.com/AlwaysLearning55/MA-7.github.io/master/favico.png">
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
+```markdown
+Syntax highlighted code block
 
-  <!--
-    <button class="button-success pure-button">Success Button</button>
-    <button class="button-error pure-button">Error Button</button>
-    <button class="button-warning pure-button">Warning Button</button>
-    <button class="button-secondary pure-button">Secondary Button</button>
-  !-->
+# Header 1
+## Header 2
+### Header 3
 
-  <body>
-    <div class="wrapper">
-      <header>
-        <div class="container" style="margin-bottom: 5px">
-          <img src="https://raw.githubusercontent.com/AlwaysLearning55/MA-7.github.io/master/ma7logo.png" alt="Logo" class="image">
-          <div class="middle">
-            <a href="#" class="icon" title="User Profile">
-              <div class="text">
-                <a href="https://alwayslearning55.github.io/MA-7/" style="text-decoration: none; color : #000000;;"><b>MA-7 Contact Us</b></a>
-              </div>
-            </a>
-          </div>
-        </div>
+- Bulleted
+- List
 
-        <div class="container">
-          <img src="https://raw.githubusercontent.com/AlwaysLearning55/MA-7.github.io/master/test_image.png" alt="Logo" class="image">
-          <div class="middle">
-            <a href="#" class="icon" title="User Profile">
-              <div class="text">
-                <a href="https://alwayslearning55.github.io" style="text-decoration: none; color : #000000;"><b>Always Portifolio</b></a>
-              </div>
-            </a>
-          </div>
-        </div>
-        <p><br>This is a website where I will host any code I work on during my graduation and will keep my contact info for future job references. Have fun exploring!</p>
+1. Numbered
+2. List
 
-        <p class="view">Email: <a href="mailto:AlexsMiyagi@gmail.com" target="_blank">AlexSMiyagi@gmail.com</a></p>
+**Bold** and _Italic_ and `Code` text
 
-        <p> <a href="https://github.com/AlwaysLearning55" target="_blank"> <button class = "button-secondary pure-button"> <b> GitHub Profile </b> </button> </a> </p>
-        <p> <a href="https://alwayslearning55.github.io/Alexsander%20Souza%20CV%20-%202020.pdf" target="_blank"> <button class = "button-secondary pure-button"> <b> Resume Online (.PDF) </b> </button> </a> </p>
-        <p> <a href="https://www.linkedin.com/in/alexsandersouza/" target="_blank"> <button class = "button-secondary pure-button"> <b> LinkedIn Profile </b> </button> </a> </p>
+[Link](url) and ![Image](src)
+```
 
-        <p><h2>Go to:</h2></p>
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-        <ul><a href="#Current Work"><h2>Current Work</h2></a></ul>
-        <ul><a href="#CodesWorkedCollege"><h2>College Projects</h2></a></ul>
-        <ul><a href="#PersonalCodes"><h2>Personal Projects</h2></a></ul>
-      </header>
+### Jekyll Themes
 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlwaysLearning55/MA-7/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Support or Contact
 
-      <section>
-        <a name="Current Work" class="anchor"></a>
-
-        <h1>Lorem ipsum:</h1>
-        <h3><p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus</em>.</p></h3>
-
-        <p>Lorem ipsum dolor sit amet<br>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus</p>
-
-        <a name="CodesWorkedCollege" class="anchor"></a>
-
-        <h2>Lorem ipsum:</h2>
-        <p><h3><li><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus</b></li></h3>
-        <ul><h4><a href="https://github.com/AlwaysLearning55/APS03-2017-02-EE-AlexsanderSouza/raw/master/2017%2002%20-%20APS%2003%20-%20EE.docx" download="">Exercise Instructions</a>.<br>
-        <a href="https://github.com/AlwaysLearning55/APS03-2017-02-EE-AlexsanderSouza" target="_new ">GitHub</a> (Programming Language C)</h4></ul>
-
-        <div class="c">   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus.<br></div>
-        <div class="c">   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus.<br></div></p>
-
-
-        <a name="PersonalCodes" class="anchor"></a>
-
-        <h2>Lorem ipsum:</h2>
-        <p><h3><li><b><a href="https://alwayslearning55.github.io">My portifolio!</b></a></li></h3>
-        <ul><h4><a href="https://github.com/AlwaysLearning55/MA-7.github.io/" target="_blank">GitHub</a> (HTML and CSS)</h4></ul>
-
-        <div class="c">   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus. <br></div>
-        <div class="c">   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus.<br></div></p>
-
-        <p><h3><li><b>Discord BOT</b></li></h3>
-        <ul><h4><a href="https://github.com/AlwaysLearning55/AlwaysDiscordBot" target="_blank">GitHub</a> (Python)</h4></ul>
-        <ul><h4><a href="https://discord.com/api/oauth2/authorize?client_id=768113292085821452&permissions=8&scope=bot" target="_blank"><button class="button-success pure-button">Invite me to your server!</button></a></h4></ul>
-
-        <div class="c">   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus.<br></div>
-        <div class="c">   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus.<br></div></p>
-        <div class="c">   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus diam sed congue tempus.<br></div></p>
-
-      </section>
-
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist.</a> Version 1.00.0</small></p>
-      </footer>
-    </div>
-
-    <script src="javascripts/scale.fix.js"></script>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-
-  </body>
-</html>
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
