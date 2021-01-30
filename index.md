@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 --->
 ### Contact
 
-Email: contactus.ma7@gmail.com  
+Email: [contactus.ma7@gmail.com](mailto:contactus.ma7@gmail.com)
 Twitter: -  
 Instagram: -  
 Telegram: @AlwaysL  
