@@ -41,5 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Email: [ContactUs.MA7@gmail.com](mailto:ContactUs.MA7@gmail.com)  
 Twitter: -  
-Instagram: @MA7_Company  
+Instagram: [@MA7_Company](https://www.instagram.com/ma7_company/)  
 Telegram: @AlwaysL  
